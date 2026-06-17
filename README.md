@@ -149,6 +149,19 @@ Permite controlar y supervisar los niveles de iluminación de la habitación hos
 
 ---
 
+## Prototipo Final
+
+<img width="374" height="460" alt="image" src="https://github.com/user-attachments/assets/d9316c59-0329-4ef9-bd4e-55d4fb565951" />
+
+Se realizó el prototipo en impresión 3D integrando todos los microcontroladores y sensores. 
+
+
+<img width="322" height="449" alt="image" src="https://github.com/user-attachments/assets/3492ae2a-f123-44b6-942f-abd89755fda5" />
+
+Visualización en la pantalla LCD de todos los parámetros críticos del paciente.
+
+---
+
 ## Reconocimientos
 
 🏆 **Primer Lugar – Premio Plurinacional de Ciencia, Tecnología e Innovación 2025**
