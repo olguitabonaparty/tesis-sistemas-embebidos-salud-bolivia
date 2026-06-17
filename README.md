@@ -2,28 +2,39 @@
 
 # Diseño y Optimización de Sistemas Embebidos para Aplicaciones en el Área de Salud en Bolivia
 
-## Descripción
-Proyecto de investigación desarrollado como trabajo de grado de Ingeniería Electrónica y Telecomunicaciones.
+##Descripción
 
-## Objetivo
-Diseñar e implementar un sistema embebido basado en ESP32 para el monitoreo de variables biomédicas y ambientales en entornos hospitalarios.
+##Proyecto de investigación desarrollado como trabajo de grado para la obtención del título de Ingeniería Electrónica y Telecomunicaciones.
 
-## Tecnologías Utilizadas
+El proyecto consiste en el diseño e implementación de una Cabecera de Cama Hospitalaria Inteligente (CCH) basada en sistemas embebidos e Internet de las Cosas (IoT), capaz de monitorear en tiempo real variables biomédicas y ambientales relevantes para la atención del paciente.
+
+##Objetivo
+
+Diseñar e implementar un sistema embebido basado en ESP32 para el monitoreo de parámetros biomédicos y ambientales en entornos hospitalarios, contribuyendo a la mejora de la atención y supervisión de pacientes.
+
+##Tecnologías Utilizadas
 - ESP32
 - MAX30102
 - LM35
 - DHT22
 - LDR
-- PCB Design
 - Arduino IDE
-- IoT
+- Internet of Things (IoT)
+- Diseño de PCB
+- HTML, CSS y JavaScript
+- Servidor Web Local
 
-## Funcionalidades
-- Monitoreo de frecuencia cardíaca y saturación de oxígeno.
+##Funcionalidades
+- Monitoreo de frecuencia cardíaca.
+- Monitoreo de saturación de oxígeno (SpO₂).
 - Medición de temperatura corporal.
-- Medición de temperatura y humedad ambiental.
-- Monitoreo de iluminación en habitaciones hospitalarias.
-- Visualización de datos en pantalla LCD.
+- Medición de temperatura ambiental.
+- Medición de humedad relativa.
+- Monitoreo de iluminación de la habitación.
+- Visualización de parámetros de la cama hospitalaria.
+- Generación de alarmas ante valores críticos.
+- Interfaz web para visualización en tiempo real.
+
 
 ##Prototipo
 Diseño de la PCB del Prototipo de CCH
