@@ -156,6 +156,9 @@ Permite controlar y supervisar los niveles de iluminación de la habitación hos
 **Categoría B – Jóvenes Investigadores**
 
 Reconocimiento otorgado por el Ministerio de Planificación del Desarrollo y el Viceministerio de Ciencia y Tecnología de Bolivia, en el área de **Transformación Industrial y Manufactura**.
+
+<img width="671" height="618" alt="image" src="https://github.com/user-attachments/assets/53081e58-1728-4705-a277-25855ebec4a8" />
+
   
 ---
 
