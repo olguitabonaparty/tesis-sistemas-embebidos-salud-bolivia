@@ -204,7 +204,8 @@ Además, el proyecto evidencia la viabilidad de desarrollar tecnología nacional
 
 > **"La innovación en salud no es solo una cuestión de tecnología, sino de salvar vidas. Con este proyecto, damos un paso hacia un futuro en el que la atención médica en Bolivia sea más accesible, eficiente y humana."**
 
-<img width="515" height="520" alt="image" src="https://github.com/user-attachments/assets/2dfc541e-4aa1-4be6-adeb-6d257eb23e05" />
+<img width="739" height="472" alt="image" src="https://github.com/user-attachments/assets/f2a2dd2e-6dc4-4d81-865d-331406230234" />
+
 
 
 
