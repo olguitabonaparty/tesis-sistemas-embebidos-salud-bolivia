@@ -155,6 +155,7 @@ Permite controlar y supervisar los niveles de iluminación de la habitación hos
 
 Se realizó el prototipo en impresión 3D integrando todos los microcontroladores y sensores. 
 
+---
 
 <img width="322" height="449" alt="image" src="https://github.com/user-attachments/assets/3492ae2a-f123-44b6-942f-abd89755fda5" />
 
